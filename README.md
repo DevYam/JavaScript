@@ -1,4 +1,4 @@
 # JavaScript
-w3school Javascript
+Sample JS snippets
 
 Learning JS...
